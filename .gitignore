@@ -1,0 +1,7 @@
+test1.py
+__pycache__
+.code-workspace
+build
+dist
+*.spec
+personal_ico.png
